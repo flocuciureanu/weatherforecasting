@@ -1,0 +1,11 @@
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\bin\Debug\net8.0\WeatherForecasting.Contracts.deps.json
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\bin\Debug\net8.0\WeatherForecasting.Contracts.dll
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\bin\Debug\net8.0\WeatherForecasting.Contracts.pdb
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\WeatherForecasting.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\WeatherForecasting.Contracts.AssemblyInfoInputs.cache
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\WeatherForecasting.Contracts.AssemblyInfo.cs
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\WeatherForecasting.Contracts.csproj.CoreCompileInputs.cache
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\WeatherForecasting.Contracts.dll
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\refint\WeatherForecasting.Contracts.dll
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\WeatherForecasting.Contracts.pdb
+D:\Work\CTeleportTask\WeatherForecasting\WeatherForecasting.Contracts\obj\Debug\net8.0\ref\WeatherForecasting.Contracts.dll
